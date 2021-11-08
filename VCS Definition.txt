@@ -1,0 +1,3 @@
+Ein Version Control System kurz VCS ist ein System/Verfahren zur Verfolgung und Verwaltung von Änderungen an Softwarecode.
+Es hilft Teams den Überblick über den neusten Stand des Projektes zu behalten. Die Änderungen werden in einer Datenbank gespeichert, sodass bei Fehlern wieder auf
+die ältere funktionierende Version zurückgegriffen werden kann.
